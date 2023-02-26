@@ -1,0 +1,22 @@
+{
+  "name": "@stable-canvas/sc-core",
+  "version": "1.0.1",
+  "description": "stable canvas extension helper",
+  "main": "./src/index.js",
+  "module": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "files": [
+    "/src"
+  ],
+  "scripts": {
+    "start": "echo yep~"
+  },
+  "devDependencies": {
+    "tslib": "^2.5.0",
+    "typescript": "^4.8.4"
+  },
+  "license": "MIT",
+  "keywords": [
+    "stable-canvas"
+  ]
+}
